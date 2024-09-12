@@ -109,5 +109,8 @@
     "url": "(https://github.com/mightyanubhav/gitPractice.git)"
   },
   "author": "Anubhav Shukla",
-  "license": "ISC"
+  "license": "ISC",
+  "browserslist":[
+    "last 2 versions"
+  ]
 }
