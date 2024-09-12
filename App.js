@@ -13,7 +13,7 @@ const head = React.createElement(
     {},
     "This is the value"
 )
-const child = React.createElement("div", {id: "child"}, head);
+const child = React.createElement("div", {id: "child1"}, head);
 const parent = React.createElement("div", {id:"parent"}, child);
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
